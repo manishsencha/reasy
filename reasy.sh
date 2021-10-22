@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 name=$1
 st=1
