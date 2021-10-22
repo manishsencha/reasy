@@ -5,7 +5,7 @@ Reasy is a shell script created to make things easy in initializing a react app.
 
 ## Usage 
 <ul>
-  <li><code>./reasy.sh <react-app-name></code></li>
+  <li><code>./reasy.sh react-app-name</code></li>
 </ul>
 
 If you get an error like permission denied, give it permission to execute. <br>
