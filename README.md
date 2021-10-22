@@ -20,5 +20,4 @@ It also creates Components and Assets directory in src directory which I believe
 I always do the same thing repeatatively after creating a React app. I created the script so that I don't have to do the same thing, basically automating my task.
 
 ## What's next?
-The script is good enough to use, Although it lacks a few things which I feel can be implemented and I will implement them and update the script. You can also contribute to this simple and easy project. 
-Just ask yourself what are the things you always do after creating a React app.
+The script is good enough to use, Although it lacks a few things which I feel can be implemented and I will implement them and update the script.
