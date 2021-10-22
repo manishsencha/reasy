@@ -1,4 +1,4 @@
-# reasy
+# Reasy
 
 ## What is reasy?
 Reasy is a shell script created to make things easy in initializing a react app.
