@@ -54,10 +54,7 @@ create_custom_src(){
     fi
     echo "Generating custom src code...."
     mkdir $name/src
-    if [ $st -eq 0 ]
-    then
-        continue
-    else
+    if [ $st -neq 0 ]
         st=0
         return
     fi
